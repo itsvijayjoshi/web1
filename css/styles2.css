@@ -1,0 +1,19 @@
+body{
+  background-image: url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260.jpg");
+  /*background-image: url("../../media/examples/lizard.png");*/
+}
+h1{
+  color: Purple;
+  font-size: 100px;
+  text-decoration: underline;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+img{
+  background-color: pink;
+}
